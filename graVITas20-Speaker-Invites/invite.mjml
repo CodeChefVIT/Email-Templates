@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-title>CodeChef-VIT Invitation</mj-title>
+    <mj-preview>Official invitation by CodeChef-VIT as a speaker for graVITas 20.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#293343" width="600px">
+    <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://i.ibb.co/zQWsGCN/cclogo-black.png" alt="CodeChef-VIT" align="center" width="300px" href="https://www.codechefvit.com" />
+        <mj-image src="https://i.ibb.co/n17F8ny/CC-Background-Text.png" width="600px" alt="" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            Hi Akshat,
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            CodeChef-VIT is a non-commercial organisation with a goal to provide a platform for programmers and developers everywhere to meet, compete and have fun.
+            <br/>
+            <br/> We organise several workshops, events, hackathons and webinars with an aim inspire students to learn more and contribute in Tech.
+            <br/>
+            <br/> This year we are organising workshops for the same and we would love to have you over as a speaker for our graVITas workshop, "Building Functional WebApps" on 17-18th October, 2020.
+            <br/>
+            <br/> We look forward to your confirmation.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+          <mj-text color="#637381" font-size="16px">
+            Regards, <br/> CodeChef-VIT
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="facebook" href="https://www.facebook.com/codechefvit" background-color="#2880B9">
+            </mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/codechefvit/" background-color="#2880B9">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/codechefvit" background-color="#2880B9">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/company/codechef-vit-chapter" background-color="#2880B9">
+            </mj-social-element>
+            <mj-social-element name="youtube" href="https://www.youtube.com/c/CodeChefVIT" background-color="#2880B9">
+            </mj-social-element>
+            <mj-social-element name="medium" href="https://medium.com/@codechefvit" background-color="#2880B9">
+            </mj-social-element>
+            <mj-social-element name="github" href="https://github.com/CodeChefVIT" background-color="#2880B9">
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
