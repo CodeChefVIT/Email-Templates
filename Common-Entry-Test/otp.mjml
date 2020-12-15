@@ -1,0 +1,27 @@
+<mjml>
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://i.ibb.co/bBFKmLx/CETHeader.png" target="_self" width="250px" padding-bottom="15px" href="https://www.codechefvit.com"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" background-color="#FFFFFF" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="30px" padding="10px 25px" src="https://i.ibb.co/VppxmWZ/cet.png" target="_self" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="20px" padding-left="40px" padding-right="40px" padding-top="30px" padding="10px 25px">
+          <p align="center" style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Your OTP for <span style="color: #E31E43">CET</span> Signup is:</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:35px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#000000" align="center">0 2 3 4</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://i.ibb.co/3kRVdbF/bottom-Banner-CET.pngeg" target="_self" href="#" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
